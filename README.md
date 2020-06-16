@@ -4,19 +4,19 @@
 
 
 
-## Desafios Launchbase (ROCKETSEAT)
----
-Aqui postarei alguns desafios do **bootcamp da RocketSeat**, os programas serão desenvolvidos com diversas funcionalidades, sempre abordando o assunto estudado nos módulos do Launchbase.
+<h1 align ="center">Desafios Launchbase (ROCKETSEAT)</h1>
+
+<h3 align="center">Aqui postarei alguns desafios do bootcamp da RocketSeat, os programas serão desenvolvidos com diversas funcionalidades, sempre abordando o assunto estudado nos módulos do Launchbase.</h3>
 
 <blockquote align="center">“Nunca pare de aprender, o conhecimento liberta!”</blockquote>
 
-<h3 align = "center">
+<p align = "center">
 <a href="https://github.com/patricksprenger">
     <img src ="https://img.shields.io/badge/Made%20By-Patrick%20Sprenger-yellow">
   </a>
 
   <img src="https://img.shields.io/badge/License-MIT-yellow" >
-</h3>  
+</p>  
 
 
 
